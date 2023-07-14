@@ -3,7 +3,7 @@
 ### Installation:
 1) Download zip (or git clone)
 2) extract zip
-3) ``pip install -r requirements.txt``
+3) ``pip install -r requirements.txt`` OR run ``install.bat``
 4) run main.py
 
 ### TODO:
